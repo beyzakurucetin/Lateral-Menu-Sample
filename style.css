@@ -1,0 +1,22 @@
+:root{
+    --color1:#EAF6F6;
+     --color2:#FF0063;
+   }
+   
+   nav.menu li{
+       display: inline-block;
+     }
+   nav.menu li a{
+      padding: 5px 10px;
+       margin: 20px;
+      color: var(--color1);
+       text-decoration: none;
+   }
+   
+   nav.menu ul{
+       text-align: center;
+        background-color: var(--color2);
+     padding: 0;
+     margin: 0;
+   }
+   
